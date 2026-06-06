@@ -13,9 +13,14 @@ Welcome to my GitHub profile! I am a versatile and detail-oriented IT student gr
 
 ## 🎨 Creative Design & Video Editing Portfolio
 
-I blend technical logic with visual creativity to design impactful social media posts, UI/UX wireframes, and engaging video content. You can view my uploaded designs and media works directly inside my portfolio repository folder:
+I blend technical logic with visual creativity to design impactful social media posts, UI/UX wireframes, and engaging video content. You can view my creative works directly through the links below:
 
-📂 **[Click Here to View My Full Design & Video Portfolio Folder](./Creative-Portfolio)**
+🖼️ **[Click Here to View My Graphic Design Files (GitHub Repository)](./)**  
+🎬 **[Click Here to Watch My Full Video Editing Portfolio (Google Drive)]**
+
+### 📱 1. UI/UX & Wireframing
+* **FIT MIRROR (Virtual Try-On App):** High-fidelity mobile UI wireframes, logos, and system architectures crafted using Figma.
+* **Web Interfaces:** Responsive web app mockups and user flows.
 
 ### 📱 1. UI/UX & Wireframing
 * **FIT MIRROR (Virtual Try-On App):** High-fidelity mobile UI wireframes, logos, and system architectures crafted using Figma.
