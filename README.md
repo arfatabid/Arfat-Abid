@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a versatile and detail-oriented IT student gr
 I blend technical logic with visual creativity to design impactful social media posts, UI/UX wireframes, and engaging video content. You can view my creative works directly through the links below:
 
 🖼️ **[Click Here to View My Graphic Design Files](https://github.com/arfatabid/Arfat-Abid)**  
-🎬 **[Click Here to Watch My Full Video Editing Portfolio (Google Drive)](PASTE_YOUR_DRIVE_LINK_HERE)**
+🎬 **[Click Here to Watch My Full Video Editing Portfolio (Google Drive)](https://drive.google.com/drive/folders/1UEA4nT5VWH67CAESpaSxnYH7-Dy1DsPG?usp=sharing)**
 
 ### 📱 1. UI/UX & Wireframing
 * **FIT MIRROR (Virtual Try-On App):** High-fidelity mobile UI wireframes, logos, and system architectures crafted using Figma.
