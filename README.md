@@ -19,8 +19,6 @@ I blend technical logic with visual creativity to design impactful social media 
 🎬 **[Click Here to Watch My Full Video Editing Portfolio (Google Drive)](PASTE_YOUR_DRIVE_LINK_HERE)**
 
 ### 📱 1. UI/UX & Wireframing
-
-### 📱 1. UI/UX & Wireframing
 * **FIT MIRROR (Virtual Try-On App):** High-fidelity mobile UI wireframes, logos, and system architectures crafted using Figma.
 * **Web Interfaces:** Responsive web app mockups and user flows.
 
